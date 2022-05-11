@@ -1,0 +1,120 @@
+[INFO ] 04-05-2022 08:57:52.468 TC001_UserLogin - Chrome Browser is launched
+[INFO ] 04-05-2022 08:57:53.525 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 08:58:01.770 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 08:58:02.630 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 08:58:03.979 TC002_ForgotPasswordLinkDisplayed - Chrome Browser is launched
+[INFO ] 04-05-2022 08:58:04.974 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 08:58:06.493 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 08:58:07.364 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:01:20.262 TC001_UserLogin - Chrome Browser is launched
+[INFO ] 04-05-2022 09:01:21.481 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:01:29.392 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:01:30.270 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:01:31.591 TC002_ForgotPasswordLinkDisplayed - Chrome Browser is launched
+[INFO ] 04-05-2022 09:01:32.692 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:01:34.106 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:01:34.957 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:10:04.371 TC001_UserLogin - Chrome Browser is launched
+[INFO ] 04-05-2022 09:10:05.641 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:10:13.441 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:10:14.331 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:10:15.660 TC002_ForgotPasswordLinkDisplayed - Chrome Browser is launched
+[INFO ] 04-05-2022 09:10:16.584 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:10:18.136 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:10:18.927 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:10:40.175 TC001_UserLogin - Edge Browser is launched
+[INFO ] 04-05-2022 09:10:41.382 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:10:49.447 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:10:50.405 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:10:51.815 TC002_ForgotPasswordLinkDisplayed - Edge Browser is launched
+[INFO ] 04-05-2022 09:10:54.289 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:10:55.709 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:10:56.622 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:11:23.479 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 09:11:25.328 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:11:32.909 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:11:34.243 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:11:40.141 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 09:11:41.470 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:11:42.926 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:11:44.179 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:30:06.664 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 09:30:08.267 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:30:16.344 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 04-05-2022 09:30:16.345 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:30:17.855 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:30:24.973 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 09:30:26.279 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:30:28.381 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 04-05-2022 09:30:28.382 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:30:29.786 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:43:27.887 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 09:43:29.257 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:43:37.340 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 04-05-2022 09:43:37.341 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:43:38.657 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:43:45.840 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 09:43:47.238 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:43:49.201 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 04-05-2022 09:43:49.202 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:43:50.442 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:45:43.018 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 09:45:44.506 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:45:52.611 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 04-05-2022 09:45:52.612 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:45:54.145 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:46:01.945 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 09:46:03.222 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:46:05.273 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 04-05-2022 09:46:05.274 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:46:06.908 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:49:40.346 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 09:49:41.604 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:49:49.671 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 04-05-2022 09:49:49.671 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:49:51.328 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:49:57.910 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 09:49:59.216 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:50:01.213 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 04-05-2022 09:50:01.213 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:50:02.616 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 09:52:02.196 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 09:52:03.546 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 09:52:11.373 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 04-05-2022 09:52:11.373 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 09:52:12.816 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 09:52:19.341 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 09:52:20.620 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 09:52:22.671 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 04-05-2022 09:52:22.672 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 09:52:23.962 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 10:02:45.772 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 10:02:47.127 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 10:02:54.954 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 04-05-2022 10:02:54.954 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 10:02:56.240 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 10:03:02.513 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 10:03:04.124 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 10:03:06.056 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 04-05-2022 10:03:06.056 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 10:03:07.259 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 04-05-2022 10:04:12.979 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 04-05-2022 10:04:14.216 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 04-05-2022 10:04:22.060 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 04-05-2022 10:04:22.060 TC001_UserLogin - User logged into application
+[INFO ] 04-05-2022 10:04:23.453 TC001_UserLogin - Browser closed successfully
+[INFO ] 04-05-2022 10:04:29.761 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 04-05-2022 10:04:31.489 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 04-05-2022 10:04:33.351 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 04-05-2022 10:04:33.352 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 04-05-2022 10:04:34.643 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
+[INFO ] 06-05-2022 10:04:15.296 TC001_UserLogin - Firefox Browser is launched
+[INFO ] 06-05-2022 10:04:16.433 TC001_UserLogin - Orange HRM application is launched
+[INFO ] 06-05-2022 10:04:23.558 TC001_UserLogin - Screenshot captured successfully
+[INFO ] 06-05-2022 10:04:23.558 TC001_UserLogin - User logged into application
+[INFO ] 06-05-2022 10:04:24.526 TC001_UserLogin - Browser closed successfully
+[INFO ] 06-05-2022 10:04:29.069 TC002_ForgotPasswordLinkDisplayed - Firefox Browser is launched
+[INFO ] 06-05-2022 10:04:30.169 TC002_ForgotPasswordLinkDisplayed - Orange HRM application is launched
+[INFO ] 06-05-2022 10:04:31.734 TC002_ForgotPasswordLinkDisplayed - Screenshot captured successfully
+[INFO ] 06-05-2022 10:04:31.734 TC002_ForgotPasswordLinkDisplayed - Forgot your password? link is existing
+[INFO ] 06-05-2022 10:04:32.638 TC002_ForgotPasswordLinkDisplayed - Browser closed successfully
